@@ -1,5 +1,7 @@
 /**
- * main - Prints Holberton as a message.
+ * main - Entry point
+ *
+ * Description: prints _putchar using putchar prototype
  *
  * Return: Always 0 (Success)
  */
